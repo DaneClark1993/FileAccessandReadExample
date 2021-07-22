@@ -11,7 +11,7 @@ import java.util.Scanner;
  * using the hasNext() method to    *
  * be able to determine whether a   *
  * file has reached the end of its  *
- * usable data.                     **
+ * usable data.                     *
  * *********************************/
 
 public class Main {
